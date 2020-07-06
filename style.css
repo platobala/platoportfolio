@@ -1,0 +1,99 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+#top-p{
+    color: gray;
+}
+#name-highlight{
+    color: hotpink;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.latest-work{
+    width: 80%;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.latest-work img{
+    width: 30%;
+    float: left;
+}
+#client-style{
+    text-align: center;
+    color: black;
+}
+.client-section{
+    text-align: center;
+    color: black;
+}
+#coname-highlight{
+    color: black;
+    margin-bottom: 0px;
+}
+#highlight{
+    color: gray;
+    font-size: 12px;
+   
+}
+.contact-us{
+    padding-top: 2%;
+    background-color: deeppink;
+    width: 600px;
+    height: 130px;
+    margin-left: 28%;
+    margin-top: 5%;
+    border-radius: 15px;
+}
+#email{
+    font-size: 20px;
+}
+
+.top-banner{
+    background-image: url(images/header-bg.png);
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-size: cover;
+}
+.client-section{
+    background-image: url(images/footer-bg.png);
+    background-size: cover;
+}
+.button{
+    text-decoration: none;
+    background-color: hotpink;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+footer{
+    text-align: center;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-size: cover;
+    margin-bottom: 10%;  
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-size: cover;
+}
+
+section{
+    height: 600px;
+}
